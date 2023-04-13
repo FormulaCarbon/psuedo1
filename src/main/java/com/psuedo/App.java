@@ -2,7 +2,7 @@ package com.psuedo;
 
 import java.io.*;
 import javax.swing.*;
-// import com.formdev.*;
+//import com.formdev.*;
 
 /**
  * Hello world!
@@ -18,7 +18,7 @@ public class App
             = new JFrame(); // creating instance of JFrame
  
         JButton button = new JButton(
-            " GFG WebSite Click"); // creating instance of
+            "press button"); // creating instance of
                                    // JButton
         button.setBounds(
             150, 200, 220,
